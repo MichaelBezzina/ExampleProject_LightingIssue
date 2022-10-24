@@ -1,0 +1,223 @@
+ManifestFileVersion: 0
+CRC: 113268318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ec0f2969ec0bb6cfa931da5e0fd804b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a6ef76132a4c6e26e45a21fbf8e8da3a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8a26610f051a994aa120a56528ee4a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: beaad270a7f1411429717ef0d081c7f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a98ec29137773af4e8559abf7c950c14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc4c4ba1eebe1b546b6f8bc33909150c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee5d39c1c74927b4daf8fac11f0b09ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 50fda0027d389e34b9c1cf8b338cb843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d12e012897687e4892c2a83a99700bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0c5e23224904c946958016804052821, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2f6ac729f9c93f49af8bdc5c463b5f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f103db29301fa44888e21907b99b2aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b4f2833f27d23546b1ad79dbd8050f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44d91f43ba836b24694dcfaf8b6ab7d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61991093b07279b4baa420f8863510da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da53b1c301432bc46a0c8b6e68146806, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 761fd7d32bb3fe14b8c2bc8a2ad1b339, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272fc004a3359e84c91a43ce19e59e5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed604414b72c45f40a951e434463df06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4909ed1431ab08d4682f40296f89e581, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a125294fc97302418273cb1003b3105, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d28eb0506d3c9e48b09059767ab325b, type: 3}
+- Class: 114
+  Script: {fileID: 2069102741, guid: 21fe281538940584e84b6d5eedb3525e, type: 3}
+- Class: 114
+  Script: {fileID: -1091098677, guid: 21fe281538940584e84b6d5eedb3525e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04d05225042509f43b130aaacf91c2e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a87b05265f044674687b9bb3d8fdf4c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0acecb262c3bfa9409344f92b682d71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0887d5464026ba14d95be636058bcdca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c21683a65bacdbe4f91fec4be3b60adb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b333d67eb08d464d823874f6a1666c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1e844c758d172e4ca9275ba774d7df8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8f9ac68a6ecd4a48b9a87cd262f5544, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f20f0d881edfb1c4db50d3a9821612c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0903bdb866343b64cb322876f1e8d912, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f5a7569ecd80e14593f8328563bb6f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10820a2aebf0d6643a8bc15f1760c104, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b70fff2a3edd625419ea2fe565efeeff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd70f28a96b4b544c8d836ae2ea5aa7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 705a5a9a6f2f276428d319db55ed9f36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16e79bda9dccb6f4c82c80ce429cb4b3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1350b6ea30c37194ab6501739f4b2aa8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eec0cfb8039c5a46895cd1ed2c90006, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0acd5acc6022f940978fc95bd215d38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca3f0c0dc40f4ee459f1ba319da58b20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cf0cb6dc300a8a4b8a9228b7798f8d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2b0e8dc0a170a4082c251e6797a597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f08c1a9d804b3a8498e6c85df6a4444f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7305dad304742a458b73994340cd7af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6203dcbd4c9270947a84c737ab67d56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be9c142ec66698a4db60fc6ca61f4ae9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f22285e55ab12947862d6f484352461, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dac52b5e729afe9438cec9658ffa8e4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61a3e76ec192cf345a8ace73446749a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99920dce8c7c5f14f9ed9f5922b5d61f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccfbf64ff8c98ca499eb58ac816a3fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32642b6f24b0050478613171d9923944, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e69d68af8894a2e4f9b84afae5e34b41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ec52cafc80915740bacbe980935b9af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1063e0ef4f586d641aaf48e262fd36a9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 328
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/AssetBundlePrefabs/SpawnableObjects/EnterAndExplore/Apartment.prefab
+Dependencies: []

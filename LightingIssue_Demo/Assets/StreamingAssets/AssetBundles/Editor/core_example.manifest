@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 2456905031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc72e9a689ef6de2ce8d4c686e5b6bcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4aa0225132756e14ea290f8583eb3cd3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce661883c34e135458589fe822c6713f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0acecb262c3bfa9409344f92b682d71a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b010ddf680fa02046b89263dd2db42b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7f30727760697c40854ad7d5c935499, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75f35e59d67f1064985ea897e4d13e73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d844ae4a9b983544c9fc26dfd51108bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82814cda2ab82eb4eb2b5a96ea14f5e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68be4dfab9340bb4abc17a15fc48a8d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6203dcbd4c9270947a84c737ab67d56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d1640fd6325676498ea41c3339713d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e52ef8ee72c105d47b1d10d2c13ca9e9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Demos/LightingIssueDemoScene.unity
+Dependencies:
+- D:/Dev/SC_ExclusiveWorkspace/Development-MB/Gen_3/SentinelCityGen3_Master/Assets/StreamingAssets/AssetBundles/Editor/combined
