@@ -64,8 +64,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CustomAssets\CableComponent\Scripts\CableComponent.cs" />
+    <Compile Include="Assets\CustomAssets\CableComponent\Scripts\CableParticle.cs" />
     <Compile Include="Assets\Scripts\ExampleAssetBundleLoaderAndInstantiator.cs" />
     <Compile Include="Assets\Scripts\InitializationManager.cs" />
+    <Compile Include="Assets\Scripts\Utility\AssetBundleBuilder.cs" />
     <Compile Include="Assets\Scripts\Utility\PrefabLightmapData.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
@@ -606,58 +609,58 @@
       <HintPath>D:/Program Files/2019.4.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Dev/Personal/LightingIssue_Demo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Dev/Personal/ExampleProject_LightingIssue/LightingIssue_Demo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
